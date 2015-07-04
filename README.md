@@ -1,2 +1,0 @@
-# snorlaxtyle
-My Repository
